@@ -3560,7 +3560,6 @@ al	PROPN
 -	PUNCT
 Qaeda	PROPN
 an	DET
-entrée	NOUN
 .	PUNCT
 
 The	DET
@@ -8735,9 +8734,7 @@ facts	NOUN
 
 ---------	PUNCT
 
-Bush’s	_
 Bush	PROPN
-’s	PART
 National	ADJ
 Guard	PROPN
 years	NOUN
@@ -8746,9 +8743,7 @@ Before	SCONJ
 you	PRON
 fall	VERB
 for	ADP
-Dems’	_
 Dems	PROPN
-’	PART
 spin	NOUN
 ,	PUNCT
 here	ADV
@@ -8764,9 +8759,7 @@ know	VERB
 about	ADP
 George	PROPN
 W.	PROPN
-Bush’s	_
 Bush	PROPN
-’s	PART
 time	NOUN
 in	ADP
 the	DET
@@ -8777,9 +8770,7 @@ Guard	PROPN
 
 That	SCONJ
 he	PRON
-didn’t	_
 did	AUX
-n’t	PART
 show	VERB
 up	ADP
 for	ADP
@@ -8807,9 +8798,7 @@ News	NOUN
 coverage	NOUN
 of	ADP
 the	DET
-president’s	_
 president	NOUN
-’s	PART
 years	NOUN
 in	ADP
 the	DET
@@ -8825,7 +8814,6 @@ portion	NOUN
 of	ADP
 that	DET
 time	NOUN
-—	PUNCT
 to	ADP
 the	DET
 exclusion	NOUN
@@ -9154,7 +9142,6 @@ story	NOUN
 to	ADP
 May	PROPN
 1972	NUM
-—	PUNCT
 the	DET
 time	NOUN
 that	PRON
@@ -9167,12 +9154,9 @@ so	ADV
 many	ADJ
 news	NOUN
 reports	NOUN
-—	PUNCT
 when	ADV
 Bush	PROPN
-“	PUNCT
 deserted	VERB
-”	PUNCT
 (	PUNCT
 according	VERB
 to	ADP
@@ -9183,9 +9167,7 @@ Moore	PROPN
 )	PUNCT
 or	CCONJ
 went	VERB
-“	PUNCT
 AWOL	ADJ
-”	PUNCT
 (	PUNCT
 according	VERB
 to	ADP
@@ -9227,9 +9209,7 @@ OK	INTJ
 Requests	NOUN
 like	ADP
 that	PRON
-weren’t	_
 were	AUX
-n’t	PART
 unusual	ADJ
 ,	PUNCT
 says	VERB
@@ -9248,7 +9228,6 @@ and	CCONJ
 1971	NUM
 .	PUNCT
 
-“	PUNCT
 In	ADP
 1972	NUM
 ,	PUNCT
@@ -9260,12 +9239,10 @@ glut	NOUN
 of	ADP
 pilots	NOUN
 ,	PUNCT
-”	PUNCT
 Campenni	PROPN
 says	VERB
 .	PUNCT
 
-“	PUNCT
 The	DET
 Vietnam	PROPN
 War	PROPN
@@ -9286,9 +9263,7 @@ jobs	NOUN
 .	PUNCT
 
 In	ADP
-’72	NUM
 or	CCONJ
-’73	NUM
 ,	PUNCT
 if	SCONJ
 you	PRON
@@ -9326,7 +9301,6 @@ solve	VERB
 their	PRON
 problem	NOUN
 .	PUNCT
-”	PUNCT
 
 So	ADV
 Bush	PROPN
@@ -9346,7 +9320,6 @@ earned	VERB
 just	ADV
 56	NUM
 points	NOUN
-—	PUNCT
 not	PART
 much	ADJ
 ,	PUNCT
@@ -9490,7 +9463,6 @@ A	DET
 evaluation	NOUN
 said	VERB
 Bush	PROPN
-“	PUNCT
 clearly	ADV
 stands	VERB
 out	ADP
@@ -9501,10 +9473,8 @@ notch	NOUN
 fighter	NOUN
 interceptor	NOUN
 pilot	NOUN
-”	PUNCT
 and	CCONJ
 was	AUX
-“	PUNCT
 a	DET
 natural	ADJ
 leader	NOUN
@@ -9516,14 +9486,12 @@ to	ADP
 for	ADP
 leadership	NOUN
 .	PUNCT
-”	PUNCT
 
 A	DET
 1971	NUM
 evaluation	NOUN
 called	VERB
 Bush	PROPN
-“	PUNCT
 an	DET
 exceptionally	ADV
 fine	ADJ
@@ -9531,9 +9499,7 @@ young	ADJ
 officer	NOUN
 and	CCONJ
 pilot	NOUN
-”	PUNCT
 who	PRON
-“	PUNCT
 continually	ADV
 flies	VERB
 intercept	NOUN
@@ -9548,7 +9514,6 @@ proficiency	NOUN
 even	ADV
 further	ADV
 .	PUNCT
-”	PUNCT
 
 And	CCONJ
 a	DET
@@ -9556,7 +9521,6 @@ a	DET
 evaluation	NOUN
 called	VERB
 Bush	PROPN
-“	PUNCT
 an	DET
 exceptional	ADJ
 fighter	NOUN
@@ -9565,7 +9529,6 @@ pilot	NOUN
 and	CCONJ
 officer	NOUN
 .	PUNCT
-”	PUNCT
 
 Now	ADV
 ,	PUNCT
@@ -9577,11 +9540,8 @@ that	SCONJ
 news	NOUN
 reports	NOUN
 questioning	VERB
-Bush’s	_
 Bush	PROPN
-’s	PART
 service	NOUN
-—	PUNCT
 in	ADP
 The	DET
 Boston	PROPN
@@ -9598,7 +9558,6 @@ and	CCONJ
 in	ADP
 other	ADJ
 outlets	NOUN
-—	PUNCT
 would	AUX
 come	VERB
 out	ADV
@@ -9613,9 +9572,7 @@ over	ADP
 attacks	NOUN
 on	ADP
 John	PROPN
-Kerry’s	_
 Kerry	PROPN
-’s	PART
 record	NOUN
 by	ADP
 the	DET
@@ -9635,17 +9592,13 @@ is	AUX
 with	ADP
 Kerry	PROPN
 ,	PUNCT
-it’s	_
 it	PRON
-’s	AUX
 reasonable	ADJ
 to	PART
 look	VERB
 at	ADP
 a	DET
-candidate’s	_
 candidate	NOUN
-’s	PART
 entire	ADJ
 record	NOUN
 ,	PUNCT
@@ -9653,7 +9606,6 @@ including	VERB
 his	PRON
 military	ADJ
 service	NOUN
-—	PUNCT
 or	CCONJ
 lack	NOUN
 of	ADP
@@ -9667,9 +9619,7 @@ able	ADJ
 to	PART
 decide	VERB
 whether	SCONJ
-it’s	_
 it	PRON
-’s	AUX
 important	ADJ
 or	CCONJ
 not	PART
@@ -9686,9 +9636,7 @@ for	ADP
 the	DET
 Swift	PROPN
 boat	PROPN
-veterans’	_
 veterans	PROPN
-’	PART
 attack	NOUN
 ,	PUNCT
 but	CCONJ
@@ -9729,9 +9677,7 @@ Kerry	PROPN
 has	AUX
 personally	ADV
 questioned	VERB
-Bush’s	_
 Bush	PROPN
-’s	PART
 service	NOUN
 ,	PUNCT
 while	SCONJ
@@ -9740,14 +9686,11 @@ has	AUX
 not	PART
 personally	ADV
 questioned	VERB
-Kerry’s	_
 Kerry	PROPN
-’s	PART
 .	PUNCT
 
 In	ADP
 April	PROPN
-—	PUNCT
 before	SCONJ
 the	DET
 Swift	PROPN
@@ -9757,11 +9700,9 @@ had	AUX
 said	VERB
 a	DET
 word	NOUN
-—	PUNCT
 Kerry	PROPN
 said	VERB
 Bush	PROPN
-“	PUNCT
 has	VERB
 yet	ADV
 to	PART
@@ -9785,14 +9726,12 @@ up	ADP
 for	ADP
 duty	NOUN
 .	PUNCT
-”	PUNCT
 
 Earlier	ADV
 ,	PUNCT
 Kerry	PROPN
 said	VERB
 ,	PUNCT
-“	PUNCT
 Just	ADV
 because	SCONJ
 you	PRON
@@ -9810,7 +9749,6 @@ answer	VERB
 that	DET
 question	NOUN
 .	PUNCT
-”	PUNCT
 
 Now	ADV
 ,	PUNCT
@@ -9828,9 +9766,7 @@ to	ADP
 Bush	PROPN
 .	PUNCT
 
-That’s	_
 That	PRON
-’s	AUX
 fine	ADJ
 .	PUNCT
 
@@ -12873,7 +12809,6 @@ option	NOUN
 
 The	DET
 good	ADJ
-Ã³l	ADJ
 US	PROPN
 of	ADP
 A	PROPN
@@ -15178,7 +15113,6 @@ in	ADP
 Jalalabad	PROPN
 .	PUNCT
 
-“	PUNCT
 There	PRON
 have	VERB
 no	DET
@@ -15191,7 +15125,6 @@ are	AUX
 undermining	VERB
 Pakistan	PROPN
 ,	PUNCT
-’’	PUNCT
 says	VERB
 a	DET
 Pakistani	ADJ
@@ -15207,7 +15140,6 @@ the	DET
 claim	NOUN
 .	PUNCT
 
-‘’	PUNCT
 Should	AUX
 Pakistan	PROPN
 show	VERB
@@ -15233,16 +15165,13 @@ it	PRON
 very	ADV
 seriously	ADV
 ,	PUNCT
-”	PUNCT
 says	VERB
 Amrullah	PROPN
 Saleh	PROPN
 the	DET
 head	NOUN
 of	ADP
-Afghanistan’s	_
 Afghanistan	PROPN
-’s	PART
 National	ADJ
 Security	PROPN
 Directorate	PROPN
@@ -15307,9 +15236,7 @@ that	SCONJ
 rather	ADP
 than	SCONJ
 undermining	VERB
-Afghanistan’s	_
 Afghanistan	PROPN
-’s	PART
 stability	NOUN
 they	PRON
 may	AUX
@@ -15321,7 +15248,6 @@ strengthen	VERB
 it	PRON
 .	PUNCT
 
-“	PUNCT
 The	DET
 elections	NOUN
 should	AUX
@@ -15354,14 +15280,11 @@ looser	NOUN
 in	ADP
 Afghanistan	PROPN
 ,	PUNCT
-’’	PUNCT
 President	PROPN
 Hamid	PROPN
 Karzai	PROPN
 told	VERB
-Pakistan’s	_
 Pakistan	PROPN
-’s	PART
 English	PROPN
 daily	NOUN
 The	DET
@@ -15550,7 +15473,6 @@ place	NOUN
 peacefully	ADV
 .	PUNCT
 
-‘’	PUNCT
 Where	ADV
 are	AUX
 Mullah	PROPN
@@ -15562,7 +15484,6 @@ and	CCONJ
 Gulbuddin	PROPN
 Hikmetar	PROPN
 ?	PUNCT
-’’	PUNCT
 
 Bush	PROPN
 is	AUX
@@ -15633,7 +15554,6 @@ Islami	PROPN
 .	PUNCT
 )	PUNCT
 
-‘’	PUNCT
 It	PRON
 was	AUX
 the	DET
@@ -15655,14 +15575,12 @@ with	ADP
 the	DET
 Pakistanis	PROPN
 ,	PUNCT
-’’	PUNCT
 says	VERB
 a	DET
 Western	ADJ
 diplomat	NOUN
 .	PUNCT
 
-‘’	PUNCT
 Bush	PROPN
 was	AUX
 very	ADV
@@ -15672,7 +15590,6 @@ before	ADP
 the	DET
 meeting	NOUN
 ,	PUNCT
-’’	PUNCT
 the	DET
 diplomat	NOUN
 said	VERB
@@ -15686,7 +15603,6 @@ the	DET
 meeting	NOUN
 added	VERB
 ,	PUNCT
-‘’	PUNCT
 The	DET
 Americans	PROPN
 now	ADV
@@ -15705,7 +15621,6 @@ than	ADP
 Al	PROPN
 Qaeda	PROPN
 .	PUNCT
-’’	PUNCT
 
 Karzai	PROPN
 was	AUX
@@ -15716,7 +15631,6 @@ the	DET
 results	NOUN
 .	PUNCT
 
-‘’	PUNCT
 President	PROPN
 Musharraf	PROPN
 promised	VERB
@@ -15735,7 +15649,6 @@ by	ADP
 the	DET
 Taliban	PROPN
 ,	PUNCT
-’’	PUNCT
 says	VERB
 Karzai	PROPN
 .	PUNCT
@@ -15771,9 +15684,7 @@ then	ADV
 he	PRON
 had	AUX
 said	VERB
-Pakistan’s	_
 Pakistan	PROPN
-’s	PART
 options	NOUN
 were	AUX
 open	ADJ
@@ -15809,9 +15720,7 @@ early	ADJ
 to	PART
 say	VERB
 whether	SCONJ
-Bush’s	_
 Bush	PROPN
-’s	PART
 tough	ADJ
 message	NOUN
 was	AUX
@@ -15848,7 +15757,6 @@ Pakistan	PROPN
 side	NOUN
 .	PUNCT
 
-‘’	PUNCT
 Pakistan	PROPN
 now	ADV
 has	VERB
@@ -15864,7 +15772,6 @@ not	PART
 there	ADV
 before	ADV
 ,	PUNCT
-’’	PUNCT
 says	VERB
 Lt.	PROPN
 General	PROPN
@@ -15872,7 +15779,6 @@ David	PROPN
 Barno	PROPN
 .	PUNCT
 
-‘’	PUNCT
 There	PRON
 is	VERB
 much	ADV
@@ -15900,7 +15806,6 @@ on	ADP
 both	DET
 ways	NOUN
 ,	PUNCT
-’’	PUNCT
 he	PRON
 adds	VERB
 .	PUNCT
@@ -16374,7 +16279,6 @@ in	ADP
 Jalalabad	PROPN
 .	PUNCT
 
-“	PUNCT
 There	PRON
 have	VERB
 no	DET
@@ -16387,7 +16291,6 @@ are	AUX
 undermining	VERB
 Pakistan	PROPN
 ,	PUNCT
-’’	PUNCT
 says	VERB
 a	DET
 Pakistani	ADJ
@@ -16403,7 +16306,6 @@ the	DET
 claim	NOUN
 .	PUNCT
 
-‘’	PUNCT
 Should	AUX
 Pakistan	PROPN
 show	VERB
@@ -16429,16 +16331,13 @@ it	PRON
 very	ADV
 seriously	ADV
 ,	PUNCT
-”	PUNCT
 says	VERB
 Amrullah	PROPN
 Saleh	PROPN
 the	DET
 head	NOUN
 of	ADP
-Afghanistan’s	_
 Afghanistan	PROPN
-’s	PART
 National	ADJ
 Security	PROPN
 Directorate	PROPN
@@ -16626,9 +16525,7 @@ Iraq	PROPN
 and	CCONJ
 Afghanistan	PROPN
 ,	PUNCT
-Iran’s	_
 Iran	PROPN
-’s	PART
 moderate	ADJ
 leadership	NOUN
 is	AUX
@@ -16697,9 +16594,7 @@ just	ADV
 30	NUM
 kilometres	NOUN
 from	ADP
-Iran’s	_
 Iran	PROPN
-’s	PART
 border	NOUN
 .	PUNCT
 
@@ -16749,18 +16644,14 @@ made	VERB
 no	DET
 objections	NOUN
 to	ADP
-Khan’s	_
 Khan	PROPN
-’s	PART
 ouster	NOUN
 because	SCONJ
 they	PRON
 want	VERB
 to	PART
 strengthen	VERB
-Karzai’s	_
 Karzai	PROPN
-’s	PART
 campaign	NOUN
 against	ADP
 warlords	NOUN
@@ -16777,9 +16668,7 @@ Tehran	PROPN
 and	CCONJ
 Washington	PROPN
 over	ADP
-Iran’s	_
 Iran	PROPN
-’s	PART
 nuclear	ADJ
 weapons	NOUN
 program	NOUN
@@ -16860,7 +16749,6 @@ to	ADP
 Iran	PROPN
 .	PUNCT
 
-‘’	PUNCT
 We	PRON
 have	VERB
 a	DET
@@ -16876,7 +16764,6 @@ a	DET
 few	ADJ
 helicopters	NOUN
 ,	PUNCT
-’’	PUNCT
 says	VERB
 Barno	PROPN
 .	PUNCT
@@ -16906,7 +16793,6 @@ and	CCONJ
 Iran	PROPN
 .	PUNCT
 
-‘’	PUNCT
 Afghanistan	PROPN
 has	AUX
 had	VERB
@@ -16935,9 +16821,7 @@ good	ADJ
 for	ADP
 us	PRON
 and	CCONJ
-that’s	_
 that	PRON
-’s	AUX
 how	ADV
 we	PRON
 would	AUX
@@ -16945,7 +16829,6 @@ like	VERB
 to	PART
 keep	VERB
 it	PRON
-’’	PUNCT
 ,	PUNCT
 says	VERB
 Karzai	PROPN
@@ -16958,9 +16841,7 @@ that	SCONJ
 the	DET
 interference	NOUN
 of	ADP
-Afghanistan’s	_
 Afghanistan	PROPN
-’s	PART
 neighbours	NOUN
 is	AUX
 over	ADV
@@ -16979,9 +16860,7 @@ deal	VERB
 more	ADV
 firmly	ADV
 with	ADP
-neighbours’	_
 neighbours	NOUN
-’	PART
 interference	NOUN
 .	PUNCT
 
@@ -31184,9 +31063,7 @@ George	PROPN
 Tenet	PROPN
 ,	PUNCT
 al	PROPN
-Qaeda’s	_
 Qaeda	PROPN
-’s	PART
 ability	NOUN
 to	PART
 conduct	VERB
@@ -89556,7 +89433,6 @@ You	PRON
 will	AUX
 discover	VERB
 :	PUNCT
-·	PUNCT
 How	ADV
 to	PART
 Create	VERB
@@ -89566,7 +89442,6 @@ of	ADP
 Residual	ADJ
 Income	NOUN
 ;	PUNCT
-·	PUNCT
 Why	ADV
 Agel	PROPN
 is	AUX
@@ -89578,7 +89453,6 @@ Live	VERB
 Your	PRON
 Dreams	NOUN
 ;	PUNCT
-·	PUNCT
 The	DET
 Amazing	ADJ
 Scientific	ADJ
@@ -89587,7 +89461,6 @@ Behind	ADP
 the	DET
 Products	NOUN
 ;	PUNCT
-·	PUNCT
 How	ADV
 the	DET
 "	PUNCT
@@ -89601,7 +89474,6 @@ Bonus	NOUN
 Checks	NOUN
 Faster	ADV
 ;	PUNCT
-·	PUNCT
 The	DET
 Support	NOUN
 System	NOUN
@@ -89614,7 +89486,6 @@ Build	VERB
 Stronger	ADV
 ;	PUNCT
 and	CCONJ
-·	PUNCT
 The	DET
 Secret	NOUN
 to	PART
@@ -99149,9 +99020,7 @@ marriage	NOUN
 .	PUNCT
 
 But	CCONJ
-that’s	_
 that	PRON
-’s	AUX
 not	PART
 the	DET
 case	NOUN
@@ -99205,11 +99074,7 @@ couples	NOUN
 
 One	NUM
 of	ADP
-“	PUNCT
-NCRC4ME’s	_
 NCRC4ME	PROPN
-’s	PART
-”	PUNCT
 major	ADJ
 efforts	NOUN
 is	AUX
@@ -99219,13 +99084,11 @@ signatures	NOUN
 for	ADP
 the	DET
 attached	VERB
-“	PUNCT
 Declaration	NOUN
 of	ADP
 Religious	ADJ
 Leaders	NOUN
 ,	PUNCT
-”	PUNCT
 which	PRON
 has	AUX
 been	AUX
@@ -99252,7 +99115,6 @@ equality	NOUN
 and	CCONJ
 states	VERB
 ,	PUNCT
-“	PUNCT
 We	PRON
 are	AUX
 resolved	VERB
@@ -99288,7 +99150,6 @@ of	ADP
 civil	ADJ
 marriage	NOUN
 .	PUNCT
-”	PUNCT
 
 A	DET
 measure	NOUN
@@ -99327,13 +99188,11 @@ visible	ADJ
 support	NOUN
 for	ADP
 the	DET
-“	PUNCT
 pro-same	ADJ
 -	PUNCT
 gender	NOUN
 -	PUNCT
 marriage	NOUN
-”	PUNCT
 side	NOUN
 of	ADP
 this	DET
@@ -99402,26 +99261,19 @@ written	VERB
 as	SCONJ
 coming	VERB
 from	ADP
-“	PUNCT
 religious	ADJ
 leaders	NOUN
 ,	PUNCT
-”	PUNCT
 people	NOUN
 who	PRON
-don’t	_
 do	AUX
-n’t	PART
 consider	VERB
 themselves	PRON
-“	PUNCT
 religious	ADJ
 leaders	NOUN
-”	PUNCT
 can	AUX
 sign	VERB
 as	ADP
-“	PUNCT
 Supporters	NOUN
 of	ADP
 the	DET
@@ -99433,7 +99285,6 @@ for	ADP
 Marriage	PROPN
 Equality	PROPN
 .	PUNCT
-”	PUNCT
 )	PUNCT
 
 Please	INTJ
@@ -99529,10 +99380,8 @@ in	ADP
 time	NOUN
 for	ADP
 their	PRON
-“	PUNCT
 lobby	NOUN
 day	NOUN
-”	PUNCT
 in	ADP
 Raleigh	PROPN
 on	ADP
@@ -99682,7 +99531,6 @@ and	CCONJ
 our	PRON
 posterity	NOUN
 .	PUNCT
-”	PUNCT
 
 The	DET
 North	PROPN
@@ -99691,10 +99539,8 @@ Constitution	PROPN
 likewise	ADV
 affirms	VERB
 the	DET
-“	PUNCT
 inalienable	ADJ
 rights	NOUN
-”	PUNCT
 of	ADP
 human	ADJ
 beings	NOUN
@@ -123543,7 +123389,6 @@ admits	VERB
 are	AUX
 detained	VERB
 at	ADP
-Guantánamo	PROPN
 Bay	PROPN
 ,	PUNCT
 Cuba	PROPN
@@ -141442,16 +141287,12 @@ is	AUX
 known	VERB
 locally	ADV
 as	ADP
-‘	PUNCT
 Garganta	PROPN
 Del	PROPN
 Diablo	PROPN
-’	PUNCT
 (	PUNCT
 The	DET
-Devil’s	_
 Devil	PROPN
-’s	PART
 Throat	PROPN
 )	PUNCT
 ,	PUNCT
@@ -141588,7 +141429,6 @@ falls	NOUN
 and	CCONJ
 Foz	PROPN
 do	PROPN
-Iguaçu	PROPN
 in	ADP
 Brazil	PROPN
 ,	PUNCT
@@ -142222,7 +142062,6 @@ numerous	ADJ
 other	ADJ
 forms	NOUN
 of	ADP
-“	PUNCT
 I	PRON
 have	VERB
 to	PART
@@ -142233,24 +142072,18 @@ your	PRON
 cash	NOUN
 or	CCONJ
 they	PRON
-won’t	_
 wo	AUX
-n’t	PART
 let	VERB
 me	PRON
 fly	VERB
-”	PUNCT
 .	PUNCT
 
-Let’s	_
 Let	VERB
-’s	PRON
 get	VERB
 this	PRON
 over	ADV
 with	ADV
 now	ADV
-…	PUNCT
 
 THERE	PRON
 IS	VERB
@@ -142262,9 +142095,7 @@ more	ADV
 ,	PUNCT
 anywhere	ADV
 ,	PUNCT
-it’s	_
 it	PRON
-’s	AUX
 an	DET
 online	NOUN
 dating	NOUN
@@ -144318,9 +144149,7 @@ in	ADP
 Italian	PROPN
 )	PUNCT
 means	VERB
-“	PUNCT
 rebirth	NOUN
-”	PUNCT
 ,	PUNCT
 and	CCONJ
 the	DET
@@ -145855,9 +145684,7 @@ ireland	PROPN
 As	ADV
 far	ADV
 ask	SCONJ
-I’m	_
 I	PRON
-’m	AUX
 aware	ADJ
 our	PRON
 most	ADV
@@ -145866,19 +145693,15 @@ custom	NOUN
 would	AUX
 be	AUX
 the	DET
-“	PUNCT
 Country	NOUN
 Wake	NOUN
-”	PUNCT
 .	PUNCT
 
 In	ADP
 all	DET
 my	PRON
 travels	NOUN
-I’ve	_
 I	PRON
-’ve	AUX
 never	ADV
 seen	VERB
 anything	PRON
@@ -145908,9 +145731,7 @@ dies	VERB
 their	PRON
 remains	NOUN
 are	AUX
-“	PUNCT
 waked	VERB
-”	PUNCT
 in	ADP
 their	PRON
 home	NOUN
@@ -146633,9 +146454,7 @@ to	PART
 watch	VERB
 T.V.	NOUN
 ,	PUNCT
-it’s	_
 it	PRON
-’s	AUX
 probably	ADV
 because	ADP
 of	ADP
@@ -146646,9 +146465,7 @@ sounds	NOUN
 Hearing	NOUN
 is	AUX
 a	DET
-dog’s	_
 dog	NOUN
-’s	PART
 secondary	ADJ
 sense	NOUN
 ,	PUNCT
@@ -150448,7 +150265,6 @@ it's	_
 it	PRON
 's	AUX
 worth	ADJ
-…	PUNCT
 :-)	SYM
 
 Looking	VERB
@@ -161933,14 +161749,12 @@ choice	NOUN
 ,	PUNCT
 they	PRON
 rallied	VERB
-…	PUNCT
 
 TO	ADP
 THE	DET
 SOUTH	ADJ
 VIETNAMESE	ADJ
 GOVERNMENT	NOUN
-….	PUNCT
 
 Tet	PROPN
 was	AUX
@@ -162049,9 +161863,7 @@ was	AUX
 so	ADV
 obtuse	ADJ
 he	PRON
-didn’t	_
 did	AUX
-n’t	PART
 understand	VERB
 he	PRON
 had	VERB
@@ -162162,18 +161974,12 @@ kept	VERB
 his	PRON
 promise	NOUN
 for	ADP
-“	PUNCT
-…	PUNCT
 peace	NOUN
 with	ADP
 honor	NOUN
-….	PUNCT
-”	PUNCT
 
 But	CCONJ
-that’s	_
 that	PRON
-’s	AUX
 another	DET
 question	NOUN
 .	PUNCT
@@ -164698,9 +164504,7 @@ summer	NOUN
 
 And	CCONJ
 then	ADV
-there’s	_
 there	PRON
-’s	VERB
 the	DET
 rain	NOUN
 .	PUNCT
@@ -164755,23 +164559,18 @@ weather	NOUN
 works	VERB
 on	ADP
 the	DET
-‘	PUNCT
 four	NUM
 seasons	NOUN
 in	ADP
 a	DET
 day	NOUN
-’	PUNCT
 principle	NOUN
 ,	PUNCT
 which	PRON
-basic­ally	ADV
 means	VERB
 that	SCONJ
 you	PRON
-can’t	_
 ca	AUX
-n’t	PART
 predict	VERB
 a	DET
 thing	NOUN
@@ -164811,10 +164610,8 @@ are	AUX
 reasonably	ADV
 warm	ADJ
 and	CCONJ
-–	PUNCT
 most	ADV
 importantly	ADV
-–	PUNCT
 very	ADV
 long	ADJ
 :	PUNCT
@@ -164824,9 +164621,7 @@ height	NOUN
 of	ADP
 summer	NOUN
 you	PRON
-won’t	_
 wo	AUX
-n’t	PART
 need	VERB
 to	PART
 turn	VERB
@@ -164918,9 +164713,7 @@ alternatives	NOUN
 ,	PUNCT
 although	SCONJ
 the	DET
-country’s	_
 country	NOUN
-’s	PART
 ever	ADV
 -	PUNCT
 growing	VERB
@@ -164971,12 +164764,9 @@ September	PROPN
 than	ADP
 in	ADP
 mid-July	PROPN
-–	PUNCT
 again	ADV
 ,	PUNCT
-it’s	_
 it	PRON
-’s	AUX
 all	ADV
 part	NOUN
 of	ADP
@@ -164993,9 +164783,7 @@ ever	ADV
 -	PUNCT
 popular	ADJ
 St	PROPN
-Patrick’s	_
 Patrick	PROPN
-’s	PART
 Festival	PROPN
 .	PUNCT
 
@@ -165024,7 +164812,6 @@ parts	NOUN
 of	ADP
 the	DET
 country	NOUN
-–	PUNCT
 the	DET
 west	NOUN
 and	CCONJ
@@ -165043,9 +164830,7 @@ but	CCONJ
 many	ADJ
 of	ADP
 the	DET
-country’s	_
 country	NOUN
-’s	PART
 tourist	NOUN
 attractions	NOUN
 and	CCONJ
@@ -165055,9 +164840,7 @@ down	ADP
 in	ADP
 October	PROPN
 and	CCONJ
-don’t	_
 do	AUX
-n’t	PART
 reopen	VERB
 until	ADP
 Easter	PROPN
@@ -165082,9 +164865,7 @@ of	ADP
 the	DET
 Irish	ADJ
 :	PUNCT
-it’s	_
 it	PRON
-’s	AUX
 cold	ADJ
 ,	PUNCT
 grey	ADJ
@@ -165095,9 +164876,7 @@ by	ADP
 pm	NOUN
 ,	PUNCT
 but	CCONJ
-there’s	_
 there	PRON
-’s	VERB
 always	ADV
 a	DET
 pub	NOUN
@@ -169550,17 +169329,13 @@ him	PRON
 a	DET
 call	NOUN
 but	CCONJ
-don’t	_
 do	AUX
-n’t	PART
 leave	VERB
 a	DET
 message	NOUN
 so	SCONJ
 you	PRON
-don’t	_
 do	AUX
-n’t	PART
 have	VERB
 to	PART
 necessarily	ADV
@@ -173800,7 +173575,6 @@ great	ADJ
 ambiance	NOUN
 and	CCONJ
 cool	ADJ
-décor	NOUN
 ,	PUNCT
 and	CCONJ
 the	DET
@@ -185575,9 +185349,7 @@ of	ADP
 their	PRON
 job	NOUN
 was	AUX
-“	PUNCT
 excellent	ADJ
-”	PUNCT
 .	PUNCT
 
 The	DET
@@ -187310,7 +187082,6 @@ year	NOUN
 
 Major	ADJ
 Awards	NOUN
-–	PUNCT
 Overall	ADJ
 Hino	PROPN
 dealer	NOUN
@@ -187330,7 +187101,6 @@ year	NOUN
 
 Major	ADJ
 Awards	NOUN
-–	PUNCT
 Market	NOUN
 leader	NOUN
 overall	ADV
@@ -195187,7 +194957,6 @@ the	DET
 best	ADJ
 part	NOUN
 of	ADP
-£	SYM
 30	NUM
 for	ADP
 2	NUM
@@ -195324,7 +195093,6 @@ being	NOUN
 of	ADP
 his	PRON
 patients	NOUN
-–	PUNCT
 his	PRON
 dental	ADJ
 work	NOUN
@@ -195359,7 +195127,6 @@ is	AUX
 dealt	VERB
 with	ADP
 immediately	ADV
-–	PUNCT
 
 Pam	PROPN
 Gillies	PROPN
@@ -198847,7 +198614,6 @@ read	VERB
 or	CCONJ
 relax	VERB
 .	PUNCT
-–	PUNCT
 
 A	DET
 great	ADJ
@@ -199897,7 +199663,6 @@ posted	VERB
 by	ADP
 the	DET
 restaurant	NOUN
-“	PUNCT
 no	DET
 reservation	NOUN
 ,	PUNCT
@@ -199905,7 +199670,6 @@ sign	VERB
 your	PRON
 name	NOUN
 here	ADV
-”	PUNCT
 .	PUNCT
 
 I	PRON
@@ -200143,7 +199907,6 @@ all	DET
 actions	NOUN
 generate	VERB
 karma	NOUN
-…	PUNCT
 
 and	CCONJ
 sometimes	ADV
